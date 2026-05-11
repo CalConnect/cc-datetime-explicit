@@ -1,0 +1,132 @@
+<bibdata type="standard">
+  <fetched>2020-06-16</fetched>
+  <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
+  <title type="title-main" format="text/plain" language="en" script="Latn">ISO 7-bit coded character set for information interchange</title>
+  <title type="main" format="text/plain" language="en" script="Latn">Information technology – ISO 7-bit coded character set for information interchange</title>
+  <title type="title-intro" format="text/plain" language="fr" script="Latn">Technologies de l'information</title>
+  <title type="title-main" format="text/plain" language="fr" script="Latn">Jeu ISO de caractères codés à 7 éléments pour l'échange d'information</title>
+  <title type="main" format="text/plain" language="fr" script="Latn">Technologies de l'information – Jeu ISO de caractères codés à 7 éléments pour l'échange d'information</title>
+  <uri type="src">https://www.iso.org/standard/4777.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:4777:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/00/47/4777.detail.rss</uri>
+  <docidentifier type="ISO">ISO/IEC 646 (all parts)</docidentifier>
+  <docnumber>646</docnumber>
+  <date type="published">
+    <on>1991</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Electrotechnical Commission</name>
+      <abbreviation>IEC</abbreviation>
+      <uri>www.iec.ch</uri>
+    </organization>
+  </contributor>
+  <edition>3</edition>
+  <language>en</language>
+  <language>fr</language>
+  <script>Latn</script>
+  <status>
+    <stage>90</stage>
+    <substage>93</substage>
+  </status>
+  <copyright>
+    <from>1991</from>
+    <owner>
+      <organization>
+        <name>ISO/IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO 646:1983</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="instance">
+    <bibitem type="standard">
+      <fetched>2020-06-16</fetched>
+      <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
+      <title type="title-main" format="text/plain" language="en" script="Latn">ISO 7-bit coded character set for information interchange</title>
+      <title type="main" format="text/plain" language="en" script="Latn">Information technology – ISO 7-bit coded character set for information interchange</title>
+      <title type="title-intro" format="text/plain" language="fr" script="Latn">Technologies de l'information</title>
+      <title type="title-main" format="text/plain" language="fr" script="Latn">Jeu ISO de caractères codés à 7 éléments pour l'échange d'information</title>
+      <title type="main" format="text/plain" language="fr" script="Latn">Technologies de l'information – Jeu ISO de caractères codés à 7 éléments pour l'échange d'information</title>
+      <uri type="src">https://www.iso.org/standard/4777.html</uri>
+      <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:4777:en</uri>
+      <uri type="rss">https://www.iso.org/contents/data/standard/00/47/4777.detail.rss</uri>
+      <docidentifier type="ISO">ISO/IEC 646:1991</docidentifier>
+      <docnumber>646</docnumber>
+      <date type="published">
+        <on>1991</on>
+      </date>
+      <contributor>
+        <role type="publisher"/>
+        <organization>
+          <name>International Organization for Standardization</name>
+          <abbreviation>ISO</abbreviation>
+          <uri>www.iso.org</uri>
+        </organization>
+      </contributor>
+      <contributor>
+        <role type="publisher"/>
+        <organization>
+          <name>International Electrotechnical Commission</name>
+          <abbreviation>IEC</abbreviation>
+          <uri>www.iec.ch</uri>
+        </organization>
+      </contributor>
+      <edition>3</edition>
+      <language>en</language>
+      <language>fr</language>
+      <script>Latn</script>
+      <abstract format="text/plain" language="en" script="Latn">Specifies a set of 128 control and graphic characters such as letters, digits and symbols with their coded representation. Applies to alphabets of the Latin script.</abstract>
+      <abstract format="text/plain" language="fr" script="Latn">Specifies a set of 128 control and graphic characters such as letters, digits and symbols with their coded representation. Applies to alphabets of the Latin script.</abstract>
+      <status>
+        <stage>90</stage>
+        <substage>93</substage>
+      </status>
+      <copyright>
+        <from>1991</from>
+        <owner>
+          <organization>
+            <name>ISO/IEC</name>
+          </organization>
+        </owner>
+      </copyright>
+      <relation type="obsoletes">
+        <bibitem type="standard">
+          <formattedref format="text/plain">ISO 646:1983</formattedref>
+        </bibitem>
+      </relation>
+      <place>Geneva</place>
+    </bibitem>
+  </relation>
+  <relation type="instance">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO 646:1983</formattedref>
+    </bibitem>
+  </relation>
+  <place>Geneva</place>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="1" type="TC">ISO/IEC JTC 1/SC 2Coded character sets</technical-committee>
+    </editorialgroup>
+    <ics>
+      <code>35.040.10</code>
+      <text>Coding of character sets</text>
+    </ics>
+    <structuredidentifier type="ISO">
+      <project-number>ISO/IEC 646 (all parts)</project-number>
+    </structuredidentifier>
+  </ext>
+</bibdata>

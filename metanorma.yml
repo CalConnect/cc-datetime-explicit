@@ -1,7 +1,9 @@
----
 metanorma:
   deploy:
-    email: "ci@metanorma.org"
+    email: ci@metanorma.org
+  source:
+    files:
+    - sources/cc-18011.adoc
 relaton:
   collection:
     name: TC-DATETIME
