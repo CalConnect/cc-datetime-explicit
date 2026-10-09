@@ -18,6 +18,12 @@
 
 include::sections/0a-foreword.adoc[]
 
+[abstract]
+== Abstract
+
+This document provides a standard, declarative representation of date and time and time scale components called the explicit form, a grouped time scale unit mechanism for grouping of date and time, and new duration representations and mechanics for the calculation of date time formulas involving duration. Only date elements from the Gregorian calendar and times from the 24-hour clock are supported.
+
+
 include::sections/0b-intro.adoc[]
 
 include::sections/01-scope.adoc[]
